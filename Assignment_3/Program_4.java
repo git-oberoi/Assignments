@@ -8,6 +8,7 @@ System.out.println(" Enter a number between 1 to 9: ");
     int user = sc.nextInt();
 
    double comp = (Math.random() * 9) + 1;
+   
     System.out.println(" USer Number: " + user );
     System.out.println("Computer Number: " + (int)comp);
 
