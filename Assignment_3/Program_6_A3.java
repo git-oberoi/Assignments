@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program_6 {
+public class Program_6_A3 {
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 System.out.println(" Enter your monthly unit: ");
