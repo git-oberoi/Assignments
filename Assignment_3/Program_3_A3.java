@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program_3 {
+public class Program_3_A3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter three integers: "); 
