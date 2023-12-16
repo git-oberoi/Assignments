@@ -22,6 +22,7 @@ public class Program_1_A4 {
 		
 		}
 		System.out.println("\nThe sum of number displayed is " + sum);
+        sc.close();
 	}
 
 }

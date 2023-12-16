@@ -23,6 +23,7 @@ public class Program_2_A4 {
 			{System.out.println("The number " + x + " is not divisible by 9");
 		}
 		}
+        sc.close();
 	}
 
 }
