@@ -7,8 +7,8 @@ public class Program_3_A4 {
         Scanner sc= new Scanner(System.in);
         
      System.out.print("Enter a number: ");
+        
         int N = sc.nextInt();
-
         int sum = 0;
         int count = 0;
 
@@ -22,5 +22,6 @@ public class Program_3_A4 {
         double average = (double) sum / N;
 
         System.out.println("\nAverage of " + N + " random numbers is " +(int) average);
+        sc.close();
     }
 }
