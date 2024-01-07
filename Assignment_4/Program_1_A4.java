@@ -1,4 +1,4 @@
-package Assignment_4;
+gtitpackage Assignment_4;
 import java.util.Scanner;
 
 public class Program_1_A4 {
