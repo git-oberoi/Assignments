@@ -28,11 +28,3 @@ public class Program_8_A4{
 }
 
 
-/*  for(int i=1; i<random; i++){
- System.out.println("Too high, try again.");
-    }
- for(int i=1; i>random; i++){
-    System.out.println("Too low, try again.");
- }
- for(int i=1; i==random; i++)
-System.out.println(" good guess");*/
